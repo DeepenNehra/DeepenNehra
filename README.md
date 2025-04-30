@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@deepennehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@deepennehra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/deepen nehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepen nehra" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepen-nehra-39a1a1321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepen nehra" height="30" width="40" /></a>
 <a href="https://instagram.com/nehra_deepen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nehra_deepen" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nehra_deepen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nehra_deepen" height="30" width="40" /></a>
 <a href="https://discord.gg/adveny_60064" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="adveny_60064" height="30" width="40" /></a>
