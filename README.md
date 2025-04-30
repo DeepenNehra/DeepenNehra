@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Deepen Nehra</h1>
 <h3 align="center">A passionate full stack developer and UI&UX Designer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepennehra&label=Profile%20views&color=0e75b6&style=flat" alt="deepennehra" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepennehra" alt="deepennehra" /></a> </p>
 
 - 🔭 I’m currently working on [Destinex](https://github.com/DeepenNehra/Destinex)
@@ -19,7 +17,9 @@
 - 📫 How to reach me **nehra7deepen5@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1u6H-UVreUfmRJJJN-lSNPtKIMCZSSPui/view?usp=sharing](https://drive.google.com/file/d/1u6H-UVreUfmRJJJN-lSNPtKIMCZSSPui/view?usp=sharing)
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DeepenNehra/count.svg?"  />
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@deepennehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@deepennehra" height="30" width="40" /></a>
@@ -36,3 +36,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DeepenNehra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DeepenNehra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeepenNehra/DeepenNehra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeepenNehra/DeepenNehra/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DeepenNehra/DeepenNehra/output/pacman-contribution-graph.svg">
+</picture>
+
+
