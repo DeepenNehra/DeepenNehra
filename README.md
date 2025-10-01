@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **nehra7deepen5@gmail.com**
 
+- [![An image of @deepennehra's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepennehra)](https://holopin.io/@deepennehra)
+
 - 📄 Know about my experiences [https://drive.google.com/file/d/1u6H-UVreUfmRJJJN-lSNPtKIMCZSSPui/view?usp=sharing](https://drive.google.com/file/d/1u6H-UVreUfmRJJJN-lSNPtKIMCZSSPui/view?usp=sharing)
 <div align="center">
   <img src="https://profile-counter.glitch.me/DeepenNehra/count.svg?"  />
